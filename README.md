@@ -22,4 +22,4 @@ I'm a passionate Computer Science and Mathematics student, always eager to learn
 - 💼 &nbsp; Exploring advanced algorithms and their applications in real-world scenarios.
 
 ## Fun Fact
-- 🎶 &nbsp; When I'm not coding, I enjoy playing the guitar and exploring new music genres.
+- 🎶 &nbsp; When I'm not coding, I enjoy exploring new music genres.
