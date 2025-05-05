@@ -11,11 +11,7 @@ I'm a passionate Computer Science and Mathematics student, always eager to learn
 
 ## Languages and Tools:
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap
-- 🛢 &nbsp; MySQL | MongoDB
-- ⚙️ &nbsp; Git | Markdown
-- 🔧 &nbsp; Visual Studio code| Visual Studio Community 2022 | PyCharm | IntelliJ
-- 🖥 &nbsp; C | C++ | C# | Java | Python
-- 📊 &nbsp; MATLAB
+- 🖥 &nbsp; C | C++ | C# | Python
 
 ## Current Interests
 - 📚 &nbsp; I’m currently learning more about Deep Learning and Neural Networks.
